@@ -6,7 +6,7 @@
   <link href="https://github.com/atom.xml" rel="self"/>
   
   <link href="https://github.com/"/>
-  <updated>2021-10-29T07:30:08.979Z</updated>
+  <updated>2021-10-29T07:42:06.457Z</updated>
   <id>https://github.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>赶进度</title>
+    <link href="https://github.com/2021/10/29/%E8%B5%B6%E8%BF%9B%E5%BA%A6/"/>
+    <id>https://github.com/2021/10/29/%E8%B5%B6%E8%BF%9B%E5%BA%A6/</id>
+    <published>2021-10-29T07:40:29.000Z</published>
+    <updated>2021-10-29T07:42:06.457Z</updated>
+    
+    <content type="html"><![CDATA[<p>加油</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;加油&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="日记" scheme="https://github.com/public/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="日记" scheme="https://github.com/public/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>配置</title>
