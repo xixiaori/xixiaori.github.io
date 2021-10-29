@@ -6,7 +6,7 @@
   <link href="https://github.com/atom.xml" rel="self"/>
   
   <link href="https://github.com/"/>
-  <updated>2021-10-29T06:51:35.772Z</updated>
+  <updated>2021-10-29T06:57:34.001Z</updated>
   <id>https://github.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>配置</title>
+    <link href="https://github.com/2021/10/29/%E9%85%8D%E7%BD%AE/"/>
+    <id>https://github.com/2021/10/29/%E9%85%8D%E7%BD%AE/</id>
+    <published>2021-10-29T06:55:53.000Z</published>
+    <updated>2021-10-29T06:57:34.001Z</updated>
+    
+    <content type="html"><![CDATA[<p>this is a test file </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;this is a test file &lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="hexo" scheme="https://github.com/categories/hexo/"/>
+    
+    
+    <category term="日常" scheme="https://github.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>第一篇Blog</title>
