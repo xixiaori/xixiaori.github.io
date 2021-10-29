@@ -34,10 +34,10 @@
     
     
     
-    <category term="hexo" scheme="https://github.com/categories/hexo/"/>
+    <category term="hexo" scheme="https://github.com/public/categories/hexo/"/>
     
     
-    <category term="日常" scheme="https://github.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://github.com/public/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
@@ -59,10 +59,10 @@
     
     
     
-    <category term="hexo" scheme="https://github.com/categories/hexo/"/>
+    <category term="hexo" scheme="https://github.com/public/categories/hexo/"/>
     
     
-    <category term="日常" scheme="https://github.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://github.com/public/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
