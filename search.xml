@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>赶进度</title>
-    <url>/2021/10/29/%E8%B5%B6%E8%BF%9B%E5%BA%A6/</url>
-    <content><![CDATA[<p>加油</p>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>第一篇Blog</title>
     <url>/2021/10/29/page/</url>
     <content><![CDATA[<h1 id="主题设置"><a href="#主题设置" class="headerlink" title="# 主题设置"></a># 主题设置</h1><p>新启用DOS格式主题</p>
@@ -23,6 +11,18 @@
       </categories>
       <tags>
         <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>赶进度</title>
+    <url>/2021/10/29/%E8%B5%B6%E8%BF%9B%E5%BA%A6/</url>
+    <content><![CDATA[<p>加油</p>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>日记</tag>
       </tags>
   </entry>
   <entry>
