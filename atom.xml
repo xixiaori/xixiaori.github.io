@@ -6,7 +6,7 @@
   <link href="https://github.com/atom.xml" rel="self"/>
   
   <link href="https://github.com/"/>
-  <updated>2021-10-29T07:42:06.457Z</updated>
+  <updated>2021-10-29T11:21:43.044Z</updated>
   <id>https://github.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://github.com/2021/10/29/test/"/>
+    <id>https://github.com/2021/10/29/test/</id>
+    <published>2021-10-29T11:18:55.000Z</published>
+    <updated>2021-10-29T11:21:43.044Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="test.assets/3edge_e-8.jpg" alt="3edge_e-8"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;test.assets/3edge_e-8.jpg&quot; alt=&quot;3edge_e-8&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="日常" scheme="https://github.com/public/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>赶进度</title>
@@ -73,13 +96,14 @@
     <published>2021-10-29T04:42:23.000Z</published>
     <updated>2021-10-29T06:51:35.772Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="主题设置"><a href="#主题设置" class="headerlink" title="# 主题设置"></a># 主题设置</h1><p>新启用DOS格式主题</p><p><a href="https://github.com/blackshow/hexo-theme-freemind.386">DOS</a></p>]]></content>
+    <content type="html"><![CDATA[        <h1 id="主题设置"   >          <a href="#主题设置" class="heading-link"><i class="fas fa-link"></i></a><a href="#主题设置" class="headerlink" title="# 主题设置"></a># 主题设置</h1>      <p>新启用DOS格式主题</p><p><a href="https://github.com/blackshow/hexo-theme-freemind.386">DOS</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;主题设置&quot;&gt;&lt;a href=&quot;#主题设置&quot; class=&quot;headerlink&quot; title=&quot;# 主题设置&quot;&gt;&lt;/a&gt;# 主题设置&lt;/h1&gt;&lt;p&gt;新启用DOS格式主题&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/blackshow/he</summary>
+    <summary type="html">
+        &lt;h1 id=&quot;主题设置&quot;   &gt;
+          &lt;a href=&quot;#主题设置&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#主题设置&quot; class=&quot;headerlink&quot; </summary>
       
     
     

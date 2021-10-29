@@ -3,12 +3,24 @@
   <entry>
     <title>第一篇Blog</title>
     <url>/2021/10/29/page/</url>
-    <content><![CDATA[<h1 id="主题设置"><a href="#主题设置" class="headerlink" title="# 主题设置"></a># 主题设置</h1><p>新启用DOS格式主题</p>
+    <content><![CDATA[
+        <h1 id="主题设置"   >
+          <a href="#主题设置" class="heading-link"><i class="fas fa-link"></i></a><a href="#主题设置" class="headerlink" title="# 主题设置"></a># 主题设置</h1>
+      <p>新启用DOS格式主题</p>
 <p><a href="https://github.com/blackshow/hexo-theme-freemind.386">DOS</a></p>
 ]]></content>
       <categories>
         <category>hexo</category>
       </categories>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2021/10/29/test/</url>
+    <content><![CDATA[<p><img src="test.assets/3edge_e-8.jpg" alt="3edge_e-8"></p>
+]]></content>
       <tags>
         <tag>日常</tag>
       </tags>
