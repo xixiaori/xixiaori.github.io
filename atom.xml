@@ -96,14 +96,13 @@
     <published>2021-10-29T04:42:23.000Z</published>
     <updated>2021-10-29T06:51:35.772Z</updated>
     
-    <content type="html"><![CDATA[        <h1 id="主题设置"   >          <a href="#主题设置" class="heading-link"><i class="fas fa-link"></i></a><a href="#主题设置" class="headerlink" title="# 主题设置"></a># 主题设置</h1>      <p>新启用DOS格式主题</p><p><a href="https://github.com/blackshow/hexo-theme-freemind.386">DOS</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="主题设置"><a href="#主题设置" class="headerlink" title="# 主题设置"></a># 主题设置</h1><p>新启用DOS格式主题</p><p><a href="https://github.com/blackshow/hexo-theme-freemind.386">DOS</a></p>]]></content>
     
     
       
       
-    <summary type="html">
-        &lt;h1 id=&quot;主题设置&quot;   &gt;
-          &lt;a href=&quot;#主题设置&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#主题设置&quot; class=&quot;headerlink&quot; </summary>
+    <summary type="html">&lt;h1 id=&quot;主题设置&quot;&gt;&lt;a href=&quot;#主题设置&quot; class=&quot;headerlink&quot; title=&quot;# 主题设置&quot;&gt;&lt;/a&gt;# 主题设置&lt;/h1&gt;&lt;p&gt;新启用DOS格式主题&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/blackshow/he</summary>
       
     
     
